@@ -1,9 +1,6 @@
-class MainApp():
-    def __init__(self):
-        self.books = []
-
+class App():
+    pass
 
 if __name__ == "__main__":
-    app = MainApp()
-    app.run()
-
+    theApp = App()
+    theApp.run()
